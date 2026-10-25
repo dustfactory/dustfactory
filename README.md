@@ -81,8 +81,8 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/snake-dark.svg">
-  <img alt="잔디를 따라 움직이는 애니메이션" src="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/snake-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/cat-dark.svg">
+  <img alt="잔디를 정리하며 걷는 먼지 고양이" src="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/cat-light.svg" width="100%">
 </picture>
 
 <br><br>

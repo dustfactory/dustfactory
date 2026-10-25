@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/activity-dark.svg"><img alt="최근 활동 그래프" src="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/activity-light.svg" width="49%"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/languages-dark.svg"><img alt="사용 언어 비율" src="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/languages-light.svg" width="49%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/charts-dark.svg"><img alt="월별 활동과 언어 비율" src="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/charts-light.svg" width="100%"></picture>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 
 <!-- GAMES:START -->
 <p align="center">
-<a href="https://meonji-mon.github.io/meonji-jump/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/games/jump-preview-dark.svg"><img alt="먼지 달려 미리보기" src="./assets/games/jump-preview-light.svg" width="400"></picture></a><br>
+<a href="https://meonji-mon.github.io/meonji-jump/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/games/jump-preview-dark.svg"><img alt="먼지 달려 미리보기" src="./assets/games/jump-preview-light.svg" width="260"></picture></a><br>
 <sub>굴러오는 먼지를 뛰어넘는 달리기 게임 &nbsp;·&nbsp; <a href="https://meonji-mon.github.io/meonji-jump/"><b>플레이하기 →</b></a></sub>
 </p>
 <!-- GAMES:END -->

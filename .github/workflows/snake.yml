@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["journal/**", ".github/scripts/**", ".github/workflows/snake.yml", "assets/icons/**"]
+    paths: ["journal/**", ".github/scripts/**", ".github/workflows/snake.yml", "assets/icons/**", "assets/fonts/**"]
 permissions:
   contents: write
 concurrency:
@@ -26,7 +26,9 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         run: python3 .github/scripts/profile_data.py "${{ github.repository_owner }}" dist/data.json
       - name: render dashboard cards
-        run: python3 .github/scripts/render_cards.py dist/data.json assets/icons dist
+        run: |
+          python3 -m pip install --quiet "fonttools==4.67.0"
+          python3 .github/scripts/render_cards.py dist/data.json assets/icons assets/fonts/GamjaFlower-Regular-subset.ttf dist
       - name: push to output branch
         env:
           REPO: ${{ github.repository }}

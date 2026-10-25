@@ -34,32 +34,14 @@
 
 ---
 
-### 프로젝트
+### 일지
 
-**앱과 도구**
-
-| 프로젝트 | 설명 |
+| 날짜 | 내용 |
 | --- | --- |
-| [maccleaner](https://github.com/meonji-mon/maccleaner) | SwiftUI로 만든 macOS 청소·시스템 유틸리티 |
-| [VideoPDFMaker](https://github.com/meonji-mon/VideoPDFMaker) | 영상 프레임 캡처와 PDF 내보내기 (Windows, 오프라인) |
-| [Cop_Calendar](https://github.com/meonji-mon/Cop_Calendar) | 회사에서 쓰는 간단한 캘린더 프로그램 |
-| [MCP-SynoLink](https://github.com/meonji-mon/MCP-SynoLink) | Synology NAS 파일 작업용 MCP 서버 |
-| [galaxy-typing](https://github.com/meonji-mon/galaxy-typing) | Flutter로 만든 우주 테마 타자 연습 앱 |
+| [2026-10-25](journal/2026-10-25.md) | 브랜드 레포 공개, 로고 제작 규격서와 측정 프로그램 |
+| [2026-10-24](journal/2026-10-24.md) | 브랜드 에셋 정리, 로고를 웹 주소로 쓰기로 결정 |
 
-**게임**
-
-| 프로젝트 | 설명 |
-| --- | --- |
-| [coin_clicker](https://github.com/meonji-mon/coin_clicker) | 애니메이션과 부스터가 있는 Flutter 코인 클리커 |
-| [krakens-barrel-game](https://github.com/meonji-mon/krakens-barrel-game) | 3D 해적 통 파티 게임 프로토타입 |
-| [secret-hand-prototype](https://github.com/meonji-mon/secret-hand-prototype) | 카드 추리 게임 프로토타입 |
-
-**에이전트와 브랜드**
-
-| 프로젝트 | 설명 |
-| --- | --- |
-| [agent-harness](https://github.com/meonji-mon/agent-harness) | Codex·Claude Code 에이전트 하네스 규칙 |
-| [MEONJI-Brand](https://github.com/meonji-mon/MEONJI-Brand) | 먼지 브랜드 에셋, 원본 SVG, 제작 규격 |
+[전체 일지 보기](journal/)
 
 ---
 

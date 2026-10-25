@@ -1,20 +1,17 @@
 {
  "ttt": {
   "board": [
-   "o",
    "",
    "",
    "",
-   "x",
+   "",
+   "",
    "",
    "",
    "",
    ""
   ],
-  "log": [
-   "@meonji-mon X b2",
-   "먼지 O a1"
-  ],
+  "log": [],
   "tally": {
    "x": 0,
    "o": 0,
@@ -22,22 +19,14 @@
   }
  },
  "chess": {
-  "fen": "r1bqkbnr/pppppppp/2n5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2",
-  "last": "b8c6",
-  "log": [
-   "@meonji-mon e4",
-   "먼지 Nc6"
-  ],
+  "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+  "last": null,
+  "log": [],
   "tally": {
    "white": 0,
    "black": 0,
    "draw": 0
   }
  },
- "rate": {
-  "meonji-mon": [
-   1792915959,
-   1792916009
-  ]
- }
+ "rate": {}
 }

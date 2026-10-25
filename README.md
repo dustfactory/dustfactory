@@ -5,90 +5,74 @@
   <img alt="meonji" src="./assets/banner-light.svg" width="100%">
 </picture>
 
+<h3>먼지 <sub>meonji</sub></h3>
+
+<p>앱, 도구, 게임을 만듭니다.<br>필요한 것을 직접 만들어 씁니다.<br>만들면서 정한 것과 배운 것은 일지에 짧게 남깁니다.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <img alt="" src="./assets/divider-light.svg" width="100%">
+</picture>
+
 <br><br>
 
-<b>먼지 (meonji)</b><br>
-<sub>앱, 도구, 게임을 만듭니다.</sub>
-
-<br><br>
-
-<sub><a href="https://github.com/meonji-mon/MEONJI-Brand">MEONJI-Brand</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/meonji-mon/agent-harness">agent-harness</a></sub>
+<table align="center">
+  <tr>
+    <th colspan="2" align="left">만드는 것</th>
+  </tr>
+  <tr>
+    <td align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/smart-phone-dark.svg"><img alt="" src="./assets/icons/smart-phone-light.svg" width="16" height="16"></picture>&nbsp; 앱</td>
+    <td align="left">매일 쓰는 작은 앱</td>
+  </tr>
+  <tr>
+    <td align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/wrench-dark.svg"><img alt="" src="./assets/icons/wrench-light.svg" width="16" height="16"></picture>&nbsp; 도구</td>
+    <td align="left">macOS · Windows 작업 도구</td>
+  </tr>
+  <tr>
+    <td align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/game-controller-dark.svg"><img alt="" src="./assets/icons/game-controller-light.svg" width="16" height="16"></picture>&nbsp; 게임</td>
+    <td align="left">가볍게 즐기는 게임</td>
+  </tr>
+  <tr>
+    <th colspan="2" align="left">기술 스택</th>
+  </tr>
+  <tr>
+    <td align="left">APP</td>
+    <td align="left"><code>Flutter</code> <code>Dart</code> <code>Swift</code></td>
+  </tr>
+  <tr>
+    <td align="left">WEB · TOOLS</td>
+    <td align="left"><code>TypeScript</code> <code>JavaScript</code> <code>Python</code></td>
+  </tr>
+  <tr>
+    <td align="left">BACKEND</td>
+    <td align="left"><code>Supabase</code></td>
+  </tr>
+  <tr>
+    <th colspan="2" align="left">일지</th>
+  </tr>
+  <tr>
+    <td align="left">10.25</td>
+    <td align="left"><a href="journal/2026-10-25.md">브랜드 레포 공개, 로고 제작 규격서와 측정 프로그램</a></td>
+  </tr>
+  <tr>
+    <td align="left">10.24</td>
+    <td align="left"><a href="journal/2026-10-24.md">브랜드 에셋 정리, 로고를 웹 주소로 쓰기로 결정</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><a href="journal/">전체 일지 보기 →</a></td>
+  </tr>
+  <tr>
+    <th colspan="2" align="left">링크</th>
+  </tr>
+  <tr>
+    <td align="left"><a href="https://github.com/meonji-mon/MEONJI-Brand">MEONJI-Brand</a></td>
+    <td align="left">브랜드와 로고 제작 규격</td>
+  </tr>
+  <tr>
+    <td align="left"><a href="https://github.com/meonji-mon/agent-harness">agent-harness</a></td>
+    <td align="left">코딩 에이전트와 일하는 규칙</td>
+  </tr>
+</table>
 
 </div>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
-  <img alt="" src="./assets/divider-light.svg" width="100%">
-</picture>
-
-<h3 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/user-circle-dark.svg"><img alt="" src="./assets/icons/user-circle-light.svg" width="20" height="20" valign="middle"></picture>&nbsp; 소개</h3>
-
-<p align="center">필요한 것을 직접 만들어 씁니다.</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="220">
-      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-app-dark.svg"><img alt="앱" src="./assets/card-app-light.svg" width="200"></picture><br>
-      <b>앱</b><br><sub>매일 쓰는 작은 앱</sub><br><br>
-    </td>
-    <td align="center" width="220">
-      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-tool-dark.svg"><img alt="도구" src="./assets/card-tool-light.svg" width="200"></picture><br>
-      <b>도구</b><br><sub>macOS · Windows 작업 도구</sub><br><br>
-    </td>
-    <td align="center" width="220">
-      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-game-dark.svg"><img alt="게임" src="./assets/card-game-light.svg" width="200"></picture><br>
-      <b>게임</b><br><sub>가볍게 즐기는 게임</sub><br><br>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><sub>로고와 제작 규격은 <a href="https://github.com/meonji-mon/MEONJI-Brand">MEONJI-Brand</a>, 코딩 에이전트와 일하는 규칙은 <a href="https://github.com/meonji-mon/agent-harness">agent-harness</a>에 정리합니다.</sub></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
-  <img alt="" src="./assets/divider-light.svg" width="100%">
-</picture>
-
-<h3 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/layers-dark.svg"><img alt="" src="./assets/icons/layers-light.svg" width="20" height="20" valign="middle"></picture>&nbsp; 기술 스택</h3>
-
-<table align="center">
-  <tr>
-    <th align="center" width="220"><sub>APP</sub></th>
-    <th align="center" width="220"><sub>WEB · TOOLS</sub></th>
-    <th align="center" width="220"><sub>BACKEND</sub></th>
-  </tr>
-  <tr>
-    <td align="center" valign="top">Flutter<br>Dart<br>Swift</td>
-    <td align="center" valign="top">TypeScript<br>JavaScript<br>Python</td>
-    <td align="center" valign="top">Supabase</td>
-  </tr>
-</table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
-  <img alt="" src="./assets/divider-light.svg" width="100%">
-</picture>
-
-<h3 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/notebook-dark.svg"><img alt="" src="./assets/icons/notebook-light.svg" width="20" height="20" valign="middle"></picture>&nbsp; 일지</h3>
-
-<p align="center"><sub>만들면서 정한 것과 배운 것을 짧게 남깁니다.</sub></p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="90"><sub><code>10.25</code></sub></td>
-    <td width="570"><a href="journal/2026-10-25.md">브랜드 레포 공개, 로고 제작 규격서와 측정 프로그램</a></td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><sub><code>10.24</code></sub></td>
-    <td width="570"><a href="journal/2026-10-24.md">브랜드 에셋 정리, 로고를 웹 주소로 쓰기로 결정</a></td>
-  </tr>
-</table>
-
-<p align="center"><sub><a href="journal/">전체 일지 보기 →</a></sub></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
-  <img alt="" src="./assets/divider-light.svg" width="100%">
-</picture>

@@ -9,6 +9,8 @@
 
 <p>앱, 도구, 게임을 만듭니다.<br>필요한 것을 직접 만들어 씁니다.<br>만들면서 정한 것과 배운 것은 일지에 짧게 남깁니다.</p>
 
+<p><samp><a href="https://meonji-mon.github.io/meonji-jump/">먼지 달려</a> · <a href="https://github.com/meonji-mon/MEONJI-Brand">brand</a> · <a href="https://github.com/meonji-mon/agent-harness">harness</a> · <a href="journal/">일지</a></samp></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
   <img alt="" src="./assets/divider-light.svg" width="100%">
@@ -77,6 +79,14 @@
 
 <br>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/snake-dark.svg">
+  <img alt="잔디를 따라 움직이는 애니메이션" src="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/snake-light.svg" width="100%">
+</picture>
+
+<br><br>
+
 <!-- GAMES:START -->
 <div align="center">
 
@@ -90,5 +100,8 @@
 
 </div>
 <!-- GAMES:END -->
+
+<br>
+<p><sub><samp>먼지 · 2026</samp></sub></p>
 
 </div>

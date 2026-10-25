@@ -4,11 +4,11 @@
 <line x1="18" y1="100.0" x2="282" y2="100.0" stroke="#8a8a8a" stroke-width="3" stroke-linecap="round"/>
 <line x1="200.0" y1="18" x2="200.0" y2="282" stroke="#8a8a8a" stroke-width="3" stroke-linecap="round"/>
 <line x1="18" y1="200.0" x2="282" y2="200.0" stroke="#8a8a8a" stroke-width="3" stroke-linecap="round"/>
-<text x="50.0" y="56.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" fill="#b0b0b0">a1</text>
+<circle cx="50.0" cy="50.0" r="30" fill="none" stroke="#111" stroke-width="10"/>
 <text x="150.0" y="56.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" fill="#b0b0b0">b1</text>
 <text x="250.0" y="56.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" fill="#b0b0b0">c1</text>
 <text x="50.0" y="156.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" fill="#b0b0b0">a2</text>
-<text x="150.0" y="156.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" fill="#b0b0b0">b2</text>
+<path d="M122.0 122.0L178.0 178.0M178.0 122.0L122.0 178.0" stroke="#111" stroke-width="10" stroke-linecap="round"/>
 <text x="250.0" y="156.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" fill="#b0b0b0">c2</text>
 <text x="50.0" y="256.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" fill="#b0b0b0">a3</text>
 <text x="150.0" y="256.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" fill="#b0b0b0">b3</text>

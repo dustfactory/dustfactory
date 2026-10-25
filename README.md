@@ -14,7 +14,7 @@
 
 <br>
 
-<h3 align="center">🐾 &nbsp;소개</h3>
+<h3 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/user-circle-dark.svg"><img alt="" src="./assets/icons/user-circle-light.svg" width="22" height="22" valign="middle"></picture>&nbsp;소개</h3>
 
 <p align="center">
 먼지(meonji)입니다. 필요한 것을 직접 만들어 씁니다.<br>
@@ -23,9 +23,9 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="240"><b>📱 앱</b><br><sub>매일 쓰는 작은 앱</sub></td>
-    <td align="center" width="240"><b>🛠 도구</b><br><sub>데스크톱 자동화 · 작업 도구</sub></td>
-    <td align="center" width="240"><b>🎮 게임</b><br><sub>가볍게 즐기는 게임</sub></td>
+    <td align="center" width="240"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/smart-phone-dark.svg"><img alt="" src="./assets/icons/smart-phone-light.svg" width="28" height="28"></picture><br><b>앱</b><br><sub>매일 쓰는 작은 앱</sub></td>
+    <td align="center" width="240"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/wrench-dark.svg"><img alt="" src="./assets/icons/wrench-light.svg" width="28" height="28"></picture><br><b>도구</b><br><sub>데스크톱 자동화 · 작업 도구</sub></td>
+    <td align="center" width="240"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/game-controller-dark.svg"><img alt="" src="./assets/icons/game-controller-light.svg" width="28" height="28"></picture><br><b>게임</b><br><sub>가볍게 즐기는 게임</sub></td>
   </tr>
 </table>
 
@@ -33,28 +33,28 @@
 
 <p align="center">· · ·</p>
 
-<h3 align="center">🧰 &nbsp;기술 스택</h3>
+<h3 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/layers-dark.svg"><img alt="" src="./assets/icons/layers-light.svg" width="22" height="22" valign="middle"></picture>&nbsp;기술 스택</h3>
 
 <div align="center">
 
 <sub><b>APP</b></sub><br>
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=white">
-<img alt="Dart" src="https://img.shields.io/badge/Dart-111111?style=for-the-badge&logo=dart&logoColor=white">
-<img alt="Swift" src="https://img.shields.io/badge/Swift-111111?style=for-the-badge&logo=swift&logoColor=white">
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-111111?style=for-the-badge">
+<img alt="Dart" src="https://img.shields.io/badge/Dart-111111?style=for-the-badge">
+<img alt="Swift" src="https://img.shields.io/badge/Swift-111111?style=for-the-badge">
 
 <sub><b>WEB · TOOLS</b></sub><br>
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white">
-<img alt="Python" src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge">
+<img alt="Python" src="https://img.shields.io/badge/Python-111111?style=for-the-badge">
 
 <sub><b>BACKEND</b></sub><br>
-<img alt="Supabase" src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=white">
+<img alt="Supabase" src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge">
 
 </div>
 
 <p align="center">· · ·</p>
 
-<h3 align="center">📓 &nbsp;일지</h3>
+<h3 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/notebook-dark.svg"><img alt="" src="./assets/icons/notebook-light.svg" width="22" height="22" valign="middle"></picture>&nbsp;일지</h3>
 
 <p align="center"><sub>만들면서 정한 것과 배운 것을 짧게 남깁니다.</sub></p>
 
@@ -80,3 +80,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2A2F36&height=90&section=footer">
   <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:FAFAFA,100:E4E4E4&height=90&section=footer" width="100%">
 </picture>
+
+
+</cursor_untrusted_data_1337>

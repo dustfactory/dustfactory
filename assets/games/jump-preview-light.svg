@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 110" width="400" height="110">
+<style>@keyframes j{0%,30%,70%,100%{transform:translateY(0)}50%{transform:translateY(-38px)}}
+@keyframes d{from{transform:translateX(420px)}to{transform:translateX(-30px)}}
+@keyframes s{to{transform:rotate(-360deg)}}
+#cat{animation:j 1.6s ease-in-out infinite}#dust{animation:d 1.6s linear infinite}#spin{animation:s .8s linear infinite;transform-origin:0 -11px}
+@media (prefers-reduced-motion:reduce){#cat,#dust,#spin{animation:none}}</style>
+<line x1="0" y1="90.5" x2="400" y2="90.5" stroke="#111" stroke-width="1.5"/>
+<g transform="translate(0,90)"><g id="dust"><g id="spin" fill="#111" stroke="#111" opacity=".85"><circle cx="0.4" cy="-7.1" r="3.4"/><circle cx="-4.5" cy="-13.7" r="2.7"/><circle cx="7.5" cy="-10.5" r="3.1"/><circle cx="0.9" cy="-3.9" r="3.7"/><circle cx="2.2" cy="-13.9" r="4.1"/><circle cx="3.3" cy="-7.3" r="4.7"/><circle cx="-6.6" cy="-11.8" r="4.2"/><circle cx="6.3" cy="-8.9" r="4.0"/><circle cx="-0.1" cy="-10.8" r="4.7"/><circle cx="-6.4" cy="-10.1" r="4.7"/><circle cx="-1.9" cy="-17.5" r="3.5"/><circle cx="1.2" cy="-14.0" r="4.8"/><circle cx="0.6" cy="-11.5" r="2.8"/><circle cx="1.8" cy="-4.2" r="3.6"/><circle cx="-1.9" cy="-12.5" r="3.8"/><circle cx="-2.4" cy="-9.3" r="4.0"/><path d="M12.0 -11.0l4.0 0.0" stroke-width="1.2" fill="none"/><path d="M8.5 -3.9l2.8 2.8" stroke-width="1.2" fill="none"/><path d="M0.0 -1.0l0.0 4.0" stroke-width="1.2" fill="none"/><path d="M-8.5 -3.9l-2.8 2.8" stroke-width="1.2" fill="none"/><path d="M-12.0 -11.0l-4.0 0.0" stroke-width="1.2" fill="none"/><path d="M-8.5 -18.1l-2.8 -2.8" stroke-width="1.2" fill="none"/><path d="M-0.0 -21.0l-0.0 -4.0" stroke-width="1.2" fill="none"/><path d="M8.5 -18.1l2.8 -2.8" stroke-width="1.2" fill="none"/></g>
+<circle cx="-3" cy="-12" r="1.6" fill="#fff"/><circle cx="3" cy="-12" r="1.6" fill="#fff"/></g></g>
+<g transform="translate(80,90)"><g id="cat" fill="#111">
+<rect x="0" y="-26" width="40" height="20" rx="10"/><rect x="22" y="-36" width="24" height="22" rx="9"/>
+<path d="M23-30 26-44 33-34zM35-34 42-44 45-30z"/><circle fill="#fff" cx="31" cy="-27" r="2.3"/><circle fill="#fff" cx="39" cy="-27" r="2.3"/>
+<rect x="4" y="-8" width="5" height="8"/><rect x="28" y="-8" width="5" height="8"/>
+<path d="M2-20Q-10-26-8-38" fill="none" stroke="#111" stroke-width="4" stroke-linecap="round"/>
+<path d="M44-22 53-24M44-19 53-17" stroke="#111" stroke-width="1.3"/></g></g>
+</svg>

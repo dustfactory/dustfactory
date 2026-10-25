@@ -1,8 +1,11 @@
-name: contribution-cat
+name: profile-cards
 on:
   schedule:
     - cron: "17 15 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["journal/**", ".github/scripts/**", ".github/workflows/snake.yml", "assets/icons/**"]
 permissions:
   contents: write
 concurrency:
@@ -18,6 +21,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: python3 .github/scripts/cat_grid.py "${{ github.repository_owner }}" dist
+      - name: collect public profile data
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/profile_data.py "${{ github.repository_owner }}" dist/data.json
+      - name: render dashboard cards
+        run: python3 .github/scripts/render_cards.py dist/data.json assets/icons dist
       - name: push to output branch
         env:
           REPO: ${{ github.repository }}
@@ -27,6 +36,6 @@ jobs:
           git init -q -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add cat-light.svg cat-dark.svg
-          git commit -qm "contribution cat"
+          git add *.svg data.json
+          git commit -qm "profile cards"
           git push -f "https://x-access-token:${TOKEN}@github.com/${REPO}.git" output

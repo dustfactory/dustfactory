@@ -10,7 +10,7 @@
 <g transform="translate(80,90)"><g id="cat" fill="#111">
 <rect x="0" y="-26" width="40" height="20" rx="10"/><rect x="22" y="-36" width="24" height="22" rx="9"/>
 <path d="M23-30 26-44 33-34zM35-34 42-44 45-30z"/><circle fill="#fff" cx="31" cy="-27" r="2.3"/><circle fill="#fff" cx="39" cy="-27" r="2.3"/>
-<rect x="4" y="-8" width="5" height="8"/><rect x="28" y="-8" width="5" height="8"/>
+<line x1="10" y1="-11" x2="10" y2="0" stroke="#111" stroke-width="4.2" stroke-linecap="round" opacity="0.8"><animateTransform attributeName="transform" type="rotate" values="-38 10 -11;38 10 -11;-38 10 -11" dur="0.36s" begin="-0.18s" repeatCount="indefinite"/></line><line x1="33" y1="-11" x2="33" y2="0" stroke="#111" stroke-width="4.2" stroke-linecap="round" opacity="0.8"><animateTransform attributeName="transform" type="rotate" values="-38 33 -11;38 33 -11;-38 33 -11" dur="0.36s" begin="-0.27s" repeatCount="indefinite"/></line><line x1="6" y1="-11" x2="6" y2="0" stroke="#111" stroke-width="4.2" stroke-linecap="round" opacity="1"><animateTransform attributeName="transform" type="rotate" values="-38 6 -11;38 6 -11;-38 6 -11" dur="0.36s" begin="-0.00s" repeatCount="indefinite"/></line><line x1="29" y1="-11" x2="29" y2="0" stroke="#111" stroke-width="4.2" stroke-linecap="round" opacity="1"><animateTransform attributeName="transform" type="rotate" values="-38 29 -11;38 29 -11;-38 29 -11" dur="0.36s" begin="-0.09s" repeatCount="indefinite"/></line>
 <path d="M2-20Q-10-26-8-38" fill="none" stroke="#111" stroke-width="4" stroke-linecap="round"/>
 <path d="M44-22 53-24M44-19 53-17" stroke="#111" stroke-width="1.3"/></g></g>
 </svg>

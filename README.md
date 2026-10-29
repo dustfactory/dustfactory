@@ -17,33 +17,33 @@
 </div>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/stats-dark.svg"><img alt="GitHub 활동 요약" src="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/stats-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dustfactory/dustfactory/output/stats-dark.svg"><img alt="GitHub 활동 요약" src="https://raw.githubusercontent.com/dustfactory/dustfactory/output/stats-light.svg" width="100%"></picture>
 </p>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/charts-dark.svg"><img alt="월별 활동과 언어 비율" src="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/charts-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dustfactory/dustfactory/output/charts-dark.svg"><img alt="월별 활동과 언어 비율" src="https://raw.githubusercontent.com/dustfactory/dustfactory/output/charts-light.svg" width="100%"></picture>
 </p>
 
 <p align="center">
-<a href="https://meonji-mon.github.io/meonji-jump/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/project-meonji-jump-dark.svg"><img alt="먼지 달려" src="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/project-meonji-jump-light.svg" width="32%"></picture></a> <a href="https://github.com/meonji-mon/MEONJI-Brand"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/project-meonji-brand-dark.svg"><img alt="MEONJI-Brand" src="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/project-meonji-brand-light.svg" width="32%"></picture></a> <a href="https://github.com/meonji-mon/agent-harness"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/project-agent-harness-dark.svg"><img alt="agent-harness" src="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/project-agent-harness-light.svg" width="32%"></picture></a>
+<a href="https://dustfactory.github.io/meonji-jump/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dustfactory/dustfactory/output/project-meonji-jump-dark.svg"><img alt="먼지 달려" src="https://raw.githubusercontent.com/dustfactory/dustfactory/output/project-meonji-jump-light.svg" width="32%"></picture></a> <a href="https://github.com/dustfactory/MEONJI-Brand"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dustfactory/dustfactory/output/project-meonji-brand-dark.svg"><img alt="MEONJI-Brand" src="https://raw.githubusercontent.com/dustfactory/dustfactory/output/project-meonji-brand-light.svg" width="32%"></picture></a> <a href="https://github.com/dustfactory/agent-harness"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dustfactory/dustfactory/output/project-agent-harness-dark.svg"><img alt="agent-harness" src="https://raw.githubusercontent.com/dustfactory/dustfactory/output/project-agent-harness-light.svg" width="32%"></picture></a>
 </p>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/stack-dark.svg"><img alt="기술 스택" src="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/stack-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dustfactory/dustfactory/output/stack-dark.svg"><img alt="기술 스택" src="https://raw.githubusercontent.com/dustfactory/dustfactory/output/stack-light.svg" width="100%"></picture>
 </p>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/cat-dark.svg"><img alt="잔디를 정리하며 걷는 먼지 고양이" src="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/cat-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dustfactory/dustfactory/output/cat-dark.svg"><img alt="잔디를 정리하며 걷는 먼지 고양이" src="https://raw.githubusercontent.com/dustfactory/dustfactory/output/cat-light.svg" width="100%"></picture>
 </p>
 
 <p align="center">
-<a href="journal/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/journal-dark.svg"><img alt="최근 일지" src="https://raw.githubusercontent.com/meonji-mon/meonji-mon/output/journal-light.svg" width="100%"></picture></a>
+<a href="journal/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dustfactory/dustfactory/output/journal-dark.svg"><img alt="최근 일지" src="https://raw.githubusercontent.com/dustfactory/dustfactory/output/journal-light.svg" width="100%"></picture></a>
 </p>
 
 <!-- GAMES:START -->
 <p align="center">
-<a href="https://meonji-mon.github.io/meonji-jump/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/games/jump-preview-dark.svg"><img alt="먼지 달려 미리보기" src="./assets/games/jump-preview-light.svg" width="260"></picture></a><br>
-<sub>굴러오는 먼지를 뛰어넘는 달리기 게임 &nbsp;·&nbsp; <a href="https://meonji-mon.github.io/meonji-jump/"><b>플레이하기 →</b></a></sub>
+<a href="https://dustfactory.github.io/meonji-jump/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/games/jump-preview-dark.svg"><img alt="먼지 달려 미리보기" src="./assets/games/jump-preview-light.svg" width="260"></picture></a><br>
+<sub>굴러오는 먼지를 뛰어넘는 달리기 게임 &nbsp;·&nbsp; <a href="https://dustfactory.github.io/meonji-jump/"><b>플레이하기 →</b></a></sub>
 </p>
 <!-- GAMES:END -->
 

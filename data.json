@@ -1,0 +1,176 @@
+{
+ "generated": "2026-10-31",
+ "public_repos": 41,
+ "stars": 34,
+ "contributions_year": 827,
+ "active_days": 69,
+ "current_streak": 25,
+ "longest_streak": 25,
+ "months": [
+  {
+   "month": "2025-11",
+   "count": 0
+  },
+  {
+   "month": "2025-12",
+   "count": 0
+  },
+  {
+   "month": "2026-01",
+   "count": 0
+  },
+  {
+   "month": "2026-02",
+   "count": 0
+  },
+  {
+   "month": "2026-03",
+   "count": 0
+  },
+  {
+   "month": "2026-04",
+   "count": 1
+  },
+  {
+   "month": "2026-05",
+   "count": 0
+  },
+  {
+   "month": "2026-06",
+   "count": 27
+  },
+  {
+   "month": "2026-07",
+   "count": 135
+  },
+  {
+   "month": "2026-08",
+   "count": 109
+  },
+  {
+   "month": "2026-09",
+   "count": 207
+  },
+  {
+   "month": "2026-10",
+   "count": 348
+  }
+ ],
+ "weeks": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  1,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  14,
+  17,
+  29,
+  69,
+  12,
+  21,
+  26,
+  1,
+  12,
+  6,
+  154,
+  110,
+  0,
+  3,
+  12,
+  66,
+  95,
+  75,
+  104
+ ],
+ "languages": [
+  {
+   "name": "Python",
+   "pct": 80.8
+  },
+  {
+   "name": "HTML",
+   "pct": 8.4
+  },
+  {
+   "name": "Dart",
+   "pct": 4.8
+  },
+  {
+   "name": "JavaScript",
+   "pct": 1.6
+  },
+  {
+   "name": "Swift",
+   "pct": 1.0
+  },
+  {
+   "name": "Other",
+   "pct": 3.4
+  }
+ ],
+ "featured": [
+  {
+   "name": "meonji-jump",
+   "stars": 0,
+   "language": "HTML",
+   "pushed": "2026-10-29",
+   "url": "https://github.com/dustfactory/meonji-jump",
+   "homepage": "https://dustfactory.github.io/meonji-jump/"
+  },
+  {
+   "name": "MEONJI-Brand",
+   "stars": 0,
+   "language": "HTML",
+   "pushed": "2026-10-29",
+   "url": "https://github.com/dustfactory/MEONJI-Brand",
+   "homepage": null
+  },
+  {
+   "name": "agent-harness",
+   "stars": 0,
+   "language": "Python",
+   "pushed": "2026-10-21",
+   "url": "https://github.com/dustfactory/agent-harness",
+   "homepage": null
+  }
+ ],
+ "journal": [
+  {
+   "date": "2026-10-25",
+   "title": "브랜드 레포 공개, 로고 제작 규격서와 측정 프로그램"
+  },
+  {
+   "date": "2026-10-24",
+   "title": "브랜드 에셋 정리, 로고를 웹 주소로 쓰기로 결정"
+  }
+ ]
+}

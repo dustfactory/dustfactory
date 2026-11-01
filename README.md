@@ -5,9 +5,7 @@
   <img alt="meonji" src="./assets/banner-light.svg" width="100%">
 </picture>
 
-<h3>먼지 <sub>meonji</sub></h3>
-
-<p>앱, 도구, 게임을 만듭니다.<br>필요한 것을 직접 만들어 씁니다.<br>만들면서 정한 것과 배운 것은 일지에 짧게 남깁니다.</p>
+<h3>먼지(Meonji) <sub>dust factory</sub></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">

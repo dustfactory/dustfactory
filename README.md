@@ -45,4 +45,11 @@
 </p>
 <!-- GAMES:END -->
 
+<!-- ADS:START -->
+<p align="center">
+<a href="https://github.com/dustfactory/app-advertisements/blob/main/%EA%B1%B4%EB%84%88/%EC%99%84%EC%84%B1%EC%98%81%EC%83%81/%EA%B0%80%EB%A1%9C-16x9/Gunneo-Reel-30s-ko-StyleB-Kinetic.mp4"><b>건너 · Gunneo — 광고 보기 →</b></a><br>
+<sub>30초 광고 · 키네틱 타이포그래피 (Style B) · 1920×1080 · 60fps</sub>
+</p>
+<!-- ADS:END -->
+
 <p align="center"><sub><samp>먼지 · 2026</samp></sub></p>
